@@ -156,3 +156,4 @@ export default async function BrandStorefrontPage({ params }: BrandStorefrontPro
     </div>
   );
 }
+

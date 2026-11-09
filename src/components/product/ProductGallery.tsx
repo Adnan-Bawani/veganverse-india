@@ -51,3 +51,4 @@ export function ProductGallery({ images = [], fallbackUrl, productName }: Produc
     </div>
   );
 }
+

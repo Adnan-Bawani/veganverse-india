@@ -82,3 +82,4 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
     </div>
   );
 }
+

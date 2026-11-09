@@ -72,3 +72,4 @@ export async function submitEnquiryAction(data: EnquiryInput): Promise<ActionRes
     enquiryId: newEnquiry.id,
   };
 }
+

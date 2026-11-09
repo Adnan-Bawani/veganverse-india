@@ -299,3 +299,4 @@ export function SellerReviewManager({ initialApplications, stores }: SellerRevie
     </div>
   );
 }
+

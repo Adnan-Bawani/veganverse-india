@@ -19,3 +19,4 @@ export const enquiryStatusSchema = z.object({
   status: z.enum(['new', 'forwarded_to_seller', 'resolved', 'closed']),
   adminNotes: z.string().optional(),
 });
+

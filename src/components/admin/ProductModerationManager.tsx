@@ -232,3 +232,4 @@ export function ProductModerationManager({ initialProducts }: ProductModerationM
     </div>
   );
 }
+

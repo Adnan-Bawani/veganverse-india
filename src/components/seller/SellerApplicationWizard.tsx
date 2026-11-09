@@ -475,3 +475,4 @@ export function SellerApplicationWizard({ categories }: SellerApplicationWizardP
     </div>
   );
 }
+

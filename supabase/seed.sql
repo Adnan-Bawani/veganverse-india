@@ -150,3 +150,4 @@ INSERT INTO public.product_variants (id, product_id, sku, title, attributes, pri
 ('v1000000-0000-0000-0000-000000000004', 'p1000000-0000-0000-0000-000000000003', 'MAL-WLT-001E', 'Natural Earth Brown', '{"color": "Earth Brown"}', 1850.00, TRUE, 15, TRUE),
 ('v1000000-0000-0000-0000-000000000005', 'p1000000-0000-0000-0000-000000000003', 'MAL-WLT-002C', 'Charcoal Black', '{"color": "Charcoal Black"}', 1850.00, FALSE, 12, TRUE)
 ON CONFLICT (sku) DO NOTHING;
+

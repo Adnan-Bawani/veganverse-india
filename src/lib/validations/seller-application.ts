@@ -46,3 +46,4 @@ export const sellerApplicationSchema = z.object({
 });
 
 export type SellerApplicationInput = z.infer<typeof sellerApplicationSchema>;
+

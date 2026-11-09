@@ -47,3 +47,4 @@ export function VariantSelector({ variants = [], selectedVariantId, onSelectVari
     </div>
   );
 }
+

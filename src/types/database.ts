@@ -178,3 +178,4 @@ export interface AuditLog {
   metadata: Record<string, any>;
   created_at: string;
 }
+

@@ -385,3 +385,4 @@ DROP POLICY IF EXISTS "Admin read audit logs" ON public.audit_logs;
 CREATE POLICY "Admin read audit logs" ON public.audit_logs
 FOR SELECT TO authenticated
 USING (public.is_admin());
+

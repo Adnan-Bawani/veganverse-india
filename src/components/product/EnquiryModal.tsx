@@ -162,3 +162,4 @@ export function EnquiryModal({ product, isOpen, onClose }: EnquiryModalProps) {
     </Modal>
   );
 }
+

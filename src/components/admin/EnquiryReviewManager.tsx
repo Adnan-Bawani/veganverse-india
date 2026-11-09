@@ -184,3 +184,4 @@ export function EnquiryReviewManager({ initialEnquiries }: EnquiryReviewManagerP
     </div>
   );
 }
+

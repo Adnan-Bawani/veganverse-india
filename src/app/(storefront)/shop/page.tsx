@@ -242,3 +242,4 @@ export default async function ShopPage({ searchParams }: ShopPageProps) {
     </div>
   );
 }
+

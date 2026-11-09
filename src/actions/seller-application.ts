@@ -85,3 +85,4 @@ export async function submitSellerApplicationAction(data: SellerApplicationInput
     applicationId: newApplication.id,
   };
 }
+

@@ -90,3 +90,4 @@ export function ProductCard({ product, onEnquireClick }: ProductCardProps) {
     </div>
   );
 }
+

@@ -165,3 +165,4 @@ global-vegan-marketplace/
 
 Designed and developed for the **Global Vegan Marketplace**.  
 Proprietary & Confidential • Phase 1 Execution Blueprint.
+

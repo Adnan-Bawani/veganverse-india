@@ -78,3 +78,4 @@ export function TrustBadgeModal({ isOpen, onClose, currentStatus, explanation }:
     </Modal>
   );
 }
+

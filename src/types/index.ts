@@ -13,3 +13,4 @@ export interface ProductFilters {
   page?: number;
   limit?: number;
 }
+
